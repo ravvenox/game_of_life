@@ -30,4 +30,5 @@ void set_grid_initial_state(int row, int col) {     // Google aimode
 ```
 this one seems to be really complicated, such a junk.
 
-
+---
+Awareness: Quite often, when we write a program for a long time, we get eager to see the result.
